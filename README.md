@@ -22,5 +22,5 @@ We have a traffic intersection that regulates the traffic of four different lane
 ![64de78a5-79d3-49db-bb16-e56e5ac4fc87](https://user-images.githubusercontent.com/118048039/201756925-1d2569ca-71d5-4e8d-b2d2-bb42941d6de9.jpg)
 
 ## Folder Contain Explanation Video and Solution File 
-[Click here if you would like to open the folder!](https://github.com/psau-edu-sa/se3131-article-lama-se-1/blob/main/Assignment.md)
+[Click here if you would like to open the folder!](https://drive.google.com/drive/folders/1a_2Du_RZdV4GX3bdGPRZlau-Bkv0JTv5?usp=sharing)
 
