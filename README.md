@@ -16,7 +16,7 @@ We have a traffic intersection that regulates the traffic of four different lane
 - The signals in lane 5 allow cars to reverse traffic when it does not interfere with another signal
 
 ## The Tool Used To Formally Specification The System
-[APO](https://apo.adrian-jagusch.de/) is a web interface for APT, a powerful software for Petri Nets analysis and synthesis developed at the Carl von Ossietzky university in Oldenburg, Germany, and is developed by Adrian Jagusch.(https://apo.adrian-jagusch.de/)
+[APO](https://apo.adrian-jagusch.de/) is a web interface for APT, a powerful software for Petri Nets analysis and synthesis developed at the Carl von Ossietzky university in Oldenburg, Germany, and is developed by Adrian Jagusch.
 
 ## Picture Of The Proposed Solution
 ![64de78a5-79d3-49db-bb16-e56e5ac4fc87](https://user-images.githubusercontent.com/118048039/201756925-1d2569ca-71d5-4e8d-b2d2-bb42941d6de9.jpg)
